@@ -5,7 +5,7 @@
 
 
 <!-- Su documentación aquí -->
- # GIT #
+# GIT #
 
 ## ¿Que es?
 
